@@ -11,6 +11,8 @@ group: navigation
 Kai has quite diverse interests.
 Currently, he invests a lot of time in:
 
+exploring reading activities
+
 human computer interaction
 
 context/activity recognition
