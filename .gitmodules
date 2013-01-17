@@ -1,3 +1,6 @@
 [submodule "_site"]
 	path = _site
 	url = git@github.com:kkai/kkai.github.com.git
+[submodule "server"]
+	path = server
+	url = git@github.com:kkai/kkai.github.com.git
