@@ -34,6 +34,9 @@ contact: firstname.lastname@gmail.com <br />
 <h2>News</h2>
 <table border='0' width='100%'>
 <td>
+<span>07 Mar 2013</span>  attending  <a href="http://www.hcilab.org/ah2013/">Augmented Human 2013</a>.<br/>
+<span>23 Dec 2012</span>  visiting Kyushu University.<br/>
+<span>02 Dec 2012</span>  attending the <a href="http://www.dagstuhl.de/12492">AR Dagstuhl Seminar</a>.<br/>
 <span>29 Oct 2012</span>  attending <a href="http://www.acmmm12.org/">ACM Multimedia 2012</a> in Nara. <br/>
 <span>15 Oct 2012</span>  visiting Kyushu University.<br/>
 <span>27 Sep 2012</span>  Sendai visit for the CREST project<br/>
