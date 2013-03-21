@@ -8,6 +8,13 @@ group: navigation
 Here's a selection of final draft versions of my publications.
 
 ***
+[Towards inferring language expertise using eye tracking](/papers/2013kunze.pdf)
+K. Kunze, H. Kawaichi, K. Yoshimura, K. Kise published at WIP CHI, Paris, 2013.
+
+***
+[I see you: How to improve wearable activity recognition by leveraging information from environmental cameras](/papers/2013Bahle.pdf) G. Bahle, K. Kunze, K. Kise and P. Lukowicz, published as WIP at IEEE Pervasive Computing and Communication conference (PerCom), San Diego 2013. **Best Work in Progress Paper**
+
+***
 [_Towards Dynamically Configurable Context 
 Recognition Systems_](/papers/2012Kunze.pdf) K. Kunze and D. Bannach. presented at the 
 AAAI-12 Activity Context Workshop, Toronto, Canada, 2012.
